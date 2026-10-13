@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.7.11",
+  "package": "com.itelcan3.cloverclient.mixin",
+  "refmap": "cloverclient.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinItemRenderer"
+  ]
+}
